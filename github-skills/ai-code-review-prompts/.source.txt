@@ -1,0 +1,4 @@
+source: https://github.com/soul-sol/ai-code-review-prompts
+commit: ff21994c62aa42c17cd8f4d9620401f9fd1eac8d
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

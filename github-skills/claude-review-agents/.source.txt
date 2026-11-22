@@ -1,0 +1,4 @@
+source: https://github.com/eranw2000/claude-review-agents
+commit: d0948bf27f1fba9845d4e761664bfc27d1dc000c
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

@@ -1,0 +1,4 @@
+source: https://github.com/hyhmrright/brooks-lint
+commit: 7b0e5270980f3dedc8a84bec46f6c4707d4877b5
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

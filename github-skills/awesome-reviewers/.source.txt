@@ -1,0 +1,4 @@
+source: https://github.com/baz-scm/awesome-reviewers
+commit: 3cec9615fe0242e3112f78ffbb496ded739c3e90
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

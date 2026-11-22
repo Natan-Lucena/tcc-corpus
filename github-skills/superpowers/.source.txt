@@ -1,0 +1,4 @@
+source: https://github.com/obra/superpowers
+commit: 8ca22dba9a94f28898bbce59f2537ff4d87c747d
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

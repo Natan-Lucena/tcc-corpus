@@ -1,0 +1,4 @@
+source: https://github.com/awesome-skills/code-review-skill
+commit: 4850184dfd7765ea7b3c5c4e9b6cf8e0815ee7cb
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

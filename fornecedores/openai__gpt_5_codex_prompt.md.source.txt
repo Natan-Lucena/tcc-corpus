@@ -1,0 +1,2 @@
+source: https://raw.githubusercontent.com/openai/codex/main/codex-rs/core/gpt_5_codex_prompt.md
+collected: 2026-10-02

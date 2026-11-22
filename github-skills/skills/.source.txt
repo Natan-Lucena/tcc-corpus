@@ -1,0 +1,4 @@
+source: https://github.com/getsentry/skills
+commit: d18b7aa8ba878354e5c348310230e652f7690f9c
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

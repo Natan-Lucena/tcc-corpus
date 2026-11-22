@@ -1,0 +1,2 @@
+source: https://raw.githubusercontent.com/qodo-ai/pr-agent/main/pr_agent/settings/pr_reviewer_prompts.toml
+collected: 2026-10-02

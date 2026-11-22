@@ -1,0 +1,4 @@
+source: https://github.com/wshobson/agents
+commit: 156b7a5e7a8b93642628a339ee4039c925b34c7f
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

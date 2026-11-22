@@ -1,0 +1,4 @@
+source: https://github.com/addyosmani/agent-skills
+commit: 9d0c60d406b454a78ccc0a175b19932047aa4dac
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

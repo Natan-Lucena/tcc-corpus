@@ -1,0 +1,4 @@
+source: https://github.com/iliaal/ai-skills
+commit: 7b0520aa5d3f4e894e3e190c5d42c5b1daf41aea
+collected: 2026-10-02
+note: text files copied unmodified; no code executed

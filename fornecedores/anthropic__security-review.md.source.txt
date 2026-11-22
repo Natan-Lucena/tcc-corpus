@@ -1,0 +1,2 @@
+source: https://raw.githubusercontent.com/anthropics/claude-code-security-review/main/.claude/commands/security-review.md
+collected: 2026-10-02

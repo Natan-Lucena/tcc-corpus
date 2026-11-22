@@ -1,0 +1,4 @@
+source: https://github.com/kvsankar/agent-reviewer-skills
+commit: 6dc11e6bd396484add78bdf9e464e203f5442916
+collected: 2026-10-02
+note: text files copied unmodified; no code executed
