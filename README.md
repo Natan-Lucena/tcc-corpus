@@ -11,6 +11,8 @@ Corpus de prompts, skills e critérios de *code review* assistido por LLM, colet
 | `github-skills/<repo>/` | Arquivos copiados sem alteração de 12 repositórios públicos do GitHub; procedência em `.source.txt` |
 | `fornecedores/` | Prompts públicos de fornecedores (Anthropic, OpenAI Codex, Qodo PR-Agent); procedência em `*.source.txt` |
 | `_descartados/` | Arquivos julgados fora do escopo de code review, movidos (não apagados) para manter a rastreabilidade |
+| `selecao/` | Indicadores de seleção dos repositórios (coletados em 2026-11-16), aplicação dos critérios e skills candidatas |
+| `piloto/` | Matriz de enquadramento do piloto (skill `code-review-and-quality`): cada instrução ligada à categoria de defeito ou prática de comentário |
 
 ## Procedência e licenças
 

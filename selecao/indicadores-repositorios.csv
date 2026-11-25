@@ -1,0 +1,17 @@
+repositorio,estrelas,contribuidores,ultimo_commit,commit_copiado,crit_estrelas_1000,crit_contribuidores_10,crit_commit_12_meses,situacao,observacao
+obra/superpowers,318673,44,2026-11-03,8ca22dba9a,sim,sim,sim,aprovado,
+anthropics/claude-code,155916,59,2026-11-16,,sim,sim,sim,aprovado,repositório em que o fornecedor publica o prompt de revisão
+openai/codex,135535,729,2026-11-16,,sim,sim,sim,aprovado,repositório em que o fornecedor publica o prompt de revisão
+addyosmani/agent-skills,118317,101,2026-11-14,9d0c60d406,sim,sim,sim,aprovado,
+wshobson/agents,42584,96,2026-11-16,156b7a5e7a,sim,sim,sim,aprovado,
+qodo-ai/pr-agent,16295,481,2026-11-16,,sim,sim,sim,aprovado,repositório em que o fornecedor publica o prompt de revisão
+anthropics/claude-code-security-review,6944,3,2026-02-11,,sim,nao,sim,excluido (contribuidores),repositório em que o fornecedor publica o prompt de revisão
+awesome-skills/code-review-skill,2273,11,2026-09-08,4850184dfd,sim,sim,sim,aprovado,
+hyhmrright/brooks-lint,1578,10,2026-11-16,7b0e527098,sim,sim,sim,aprovado,
+getsentry/skills,1173,28,2026-11-14,d18b7aa8ba,sim,sim,sim,aprovado,
+baz-scm/awesome-reviewers,155,6,2026-11-04,3cec9615fe,nao,nao,sim,excluido (estrelas),
+iliaal/ai-skills,46,1,2026-11-14,7b0520aa5d,nao,nao,sim,excluido (estrelas),
+SomeStay07/code-review-agent,30,1,2026-02-12,03d187558f,nao,nao,sim,excluido (estrelas),
+eranw2000/claude-review-agents,4,1,2026-11-01,d0948bf27f,nao,nao,sim,excluido (estrelas),
+kvsankar/agent-reviewer-skills,0,1,2026-10-14,6dc11e6bd3,nao,nao,sim,excluido (estrelas),
+soul-sol/ai-code-review-prompts,0,3,2026-09-14,ff21994c62,nao,nao,sim,excluido (estrelas),

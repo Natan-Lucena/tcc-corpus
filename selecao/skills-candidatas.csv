@@ -1,0 +1,14 @@
+n,repositorio,skill,palavras,observacao
+1,obra/superpowers,requesting-code-review (com o arquivo auxiliar code-reviewer),1339,
+2,anthropics/claude-code,comando code-review,1177,
+3,addyosmani/agent-skills,code-review-and-quality,3334,skill usada no piloto
+4,wshobson/agents,code-review-excellence,1949,
+5,wshobson/agents,agente code-reviewer do plugin comprehensive-review,1100,representa sete versões quase idênticas do mesmo agente em plugins diferentes
+6,wshobson/agents,comando ai-review,1574,
+7,wshobson/agents,agente review do plugin ship-mate,964,
+8,wshobson/agents,agente code-review-preshipment,475,
+9,qodo-ai/pr-agent,prompts de revisão do PR-Agent,2128,
+10,awesome-skills/code-review-skill,code-review-skill,1535,
+11,hyhmrright/brooks-lint,brooks-review (com o guia de revisão de pull requests),1435,
+12,getsentry/skills,code-review,372,
+13,getsentry/skills,find-bugs,430,

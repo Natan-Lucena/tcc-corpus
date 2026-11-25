@@ -1,0 +1,28 @@
+id	linhas	trecho	tipo	classe	categoria_ou_pratica	aspecto	observacao
+I01	30	Does it match the spec or task requirements?	defeito	funcional	Defeitos amplos	funcionalidade ausente ou incompleta	
+I02	31	Are edge cases handled (null, empty, boundary values)?	defeito	funcional	Verificação	validação de entradas e casos de borda	
+I03	32	Are error paths handled (not just the happy path)?	defeito	funcional	Verificação	tratamento de erros e exceções	
+I04	33	Does it pass all tests? Are the tests actually testing the right things?	defeito	complementar	Testes	qualidade dos testes	
+I05	34	Are there off-by-one errors, race conditions, or state inconsistencies?	defeito	funcional	Lógica	cálculos, condições e algoritmo	instrução com dois aspectos (lógica e concorrência)
+I05	34	Are there off-by-one errors, race conditions, or state inconsistencies?	defeito	funcional	Temporização	concorrência e sincronização	instrução com dois aspectos (lógica e concorrência)
+I06	40	Are names descriptive and consistent with project conventions?	defeito	evolutibilidade	Documentação	nomes de identificadores	
+I07	41	Is the control flow straightforward (avoid nested ternaries, deep callbacks)?	defeito	evolutibilidade	Estrutura	legibilidade e complexidade	
+I08	42-49	Is the code organized logically ... clever tricks ... fewer lines ... abstractions ... dead code artifacts ... conditional bolted onto an unrelated flow ... repeated conditionals	defeito	evolutibilidade	Estrutura	funções extensas, duplicação e código morto; abordagem de solução	
+I09	46	Would comments help clarify non-obvious intent? (But don't comment obvious code.)	defeito	evolutibilidade	Documentação	comentários e documentação do código	
+I10	55-62	Does it follow existing patterns ... clean module boundaries ... code duplication ... dependencies flowing in the right direction ... abstraction level	defeito	evolutibilidade	Estrutura	convenções do projeto; projeto (design) e impacto da alteração	
+I11	68-75	Is user input validated and sanitized? ... secrets ... authentication/authorization ... SQL queries parameterized ... XSS ... external data treated as untrusted	defeito	complementar	Segurança	vulnerabilidades e exposição de dados	
+I12	81-86	Any N+1 query patterns? ... unbounded loops ... synchronous operations ... re-renders ... pagination ... large objects in hot paths	defeito	complementar	Desempenho	eficiência de algoritmos, consultas e uso de memória	
+I13	152-164	Step 2: Review the Tests First - Do tests exist for the change? ... Would the tests catch a regression	defeito	complementar	Testes	existência, qualidade e testabilidade	
+I14	285-292	Before adding any dependency: Does the existing stack solve this? ... Is it actively maintained? ... known vulnerabilities? ... license	defeito	funcional	Suporte	bibliotecas, configuração e arquivos de construção	
+I15	183-189	Label every comment ... Prefix / Meaning / Author Action (Must address before merge)	pratica		P1	pedir uma ação concreta	
+I16	90	When you flag a structural problem, propose the move - not just the problem.	pratica		P3	propor a solução	
+I17	181-193	Label every comment with its severity ... Lead with what matters. Order findings by leverage	pratica		P5	indicar a severidade e priorizar	
+I18	193	a few high-conviction comments beat a long list	pratica		P7	evitar comentários supérfluos	
+I19	142-150	Step 1: Understand the Context - Before looking at code, understand the intent	pratica		P8	compreender o propósito da alteração	
+I20	103-117; 258	Change Sizing ... ~1000 lines changed -> Too large. Split it. / Large changes: Ask the author to split them	pratica		P10	sinalizar alterações extensas e sugerir divisão	
+I21	187	Nit: ... Author may ignore - formatting, style preferences	incidental	evolutibilidade	Representação visual	formatação e indentação	menção incidental: formatação só aparece como exemplo de rótulo Nit; não é enquadrada (regra de menções incidentais)
+I22	130-138	Change Descriptions: every change needs a description that stands alone	sem_respaldo				orienta o autor da alteração, não o revisor
+I23	207-224	Multi-Model Review Pattern	sem_respaldo				organização do processo, sem respaldo na literatura reunida
+I24	251-258	Review Speed: respond within one business day	sem_respaldo				prazos de resposta
+I25	260-269	Handling Disagreements: hierarchy for resolving review disputes	sem_respaldo				
+I26	294-300	Upgrading an existing dependency: read the changelog ... one dependency per change ... lockfile	sem_respaldo				fluxo de atualização de dependências
